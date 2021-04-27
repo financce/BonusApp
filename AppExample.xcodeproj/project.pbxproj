@@ -113,7 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				F9C0765E2638982500D2A10E /* View */,
-				F9C0762A2638872400D2A10E /* SystemFile */,
+				F9C0762A2638872400D2A10E /* SupportFile */,
 				F9C07625263886BC00D2A10E /* ObserverSettings.swift */,
 				F9C074A22630295700D2A10E /* Assets.xcassets */,
 				F9C074A72630295700D2A10E /* LaunchScreen.storyboard */,
@@ -156,13 +156,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F9C0762A2638872400D2A10E /* SystemFile */ = {
+		F9C0762A2638872400D2A10E /* SupportFile */ = {
 			isa = PBXGroup;
 			children = (
 				F9C0749C2630295200D2A10E /* AppDelegate.swift */,
 				F9C0749E2630295200D2A10E /* SceneDelegate.swift */,
 			);
-			path = SystemFile;
+			path = SupportFile;
 			sourceTree = "<group>";
 		};
 		F9C0765E2638982500D2A10E /* View */ = {
