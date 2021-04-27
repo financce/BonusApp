@@ -6,9 +6,6 @@
 //
 
 import SwiftUI
-import Combine
-import API_IproBonus
-import MainViewBonus
 
 struct ContentView: View {
 
