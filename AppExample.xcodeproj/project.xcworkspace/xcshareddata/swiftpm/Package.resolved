@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "API_IproBonus",
+        "repositoryURL": "https://github.com/financce/API_IproBonus.git",
+        "state": {
+          "branch": null,
+          "revision": "ac7ee663ec5d776a4af40770b4628847785e2c07",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "MainViewBonus",
+        "repositoryURL": "https://github.com/financce/MainViewBonus.git",
+        "state": {
+          "branch": null,
+          "revision": "d87703a59262ec6d8ccaf289eb1037c29d9fdaac",
+          "version": "1.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
